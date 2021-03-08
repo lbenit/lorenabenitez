@@ -1,1 +1,13 @@
+title: Lorena Benitez
+baseurl: ""
+url: ""
+github_username: lbenit
+#
+#
+markdown: kramdown
 theme: jekyll-theme-minimal
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
