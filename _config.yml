@@ -1,11 +1,11 @@
 title: Lorena Benitez
-baseurl: ""
-url: ""
+baseurl: "/lorenabenitez"
+url: "localhost:4000"
 github_username: lbenit
 #
 #
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 gems:
   - jekyll-feed
 exclude:
